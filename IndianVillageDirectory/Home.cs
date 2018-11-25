@@ -19,7 +19,7 @@ namespace IndianVillageDirectory
 
         private void addVillageToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            //Add Village
         }
     }
 }
