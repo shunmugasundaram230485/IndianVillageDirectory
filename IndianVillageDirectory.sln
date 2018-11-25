@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndianVillageDirectory", "IndianVillageDirectory\IndianVillageDirectory.csproj", "{C15C9615-E158-4178-9CAA-11FEA5ED999E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C15C9615-E158-4178-9CAA-11FEA5ED999E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C15C9615-E158-4178-9CAA-11FEA5ED999E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C15C9615-E158-4178-9CAA-11FEA5ED999E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C15C9615-E158-4178-9CAA-11FEA5ED999E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58EE978E-29B3-4ECF-A09B-322E4C4E2364}
+	EndGlobalSection
+EndGlobal
